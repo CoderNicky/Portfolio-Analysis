@@ -45,7 +45,7 @@ Finds the optimal portfolio weights that maximize the Sharpe ratio, a measure of
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Author
-Nicky Taylor
+[Nicky Taylor](https://github.com/CoderNicky)
 
 ### References
 [PyPortfolioOpt Documentation](https://pyportfolioopt.readthedocs.io/en/latest/)
