@@ -37,4 +37,15 @@ Finds the optimal portfolio weights that maximize the Sharpe ratio, a measure of
 
 - **Sharpe Ratio Analysis:** Evaluate the performance of the portfolio using the Sharpe ratio, comparing it against a benchmark, such as the S&P 500.
 
+### Acknowledgments
 
+PyPortfolioOpt: GitHub Repository 
+
+### License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+### Author
+Nicky Taylor
+
+### References
+PyPortfolioOpt Documentation
