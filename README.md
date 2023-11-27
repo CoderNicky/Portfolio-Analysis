@@ -10,7 +10,7 @@ based on Modern Portfolio Theory (MPT) principles:
 A strategic risk management approach that involves spreading investments across various assets
 to diminish the impact of poor performance in any single investment on the overall portfolio.
 Risk Reduction: Effective in minimizing unsystematic or specific risks of individual assets, industries, or regions.
-Stability in Returns: Moderates the impact of fluctuations in individual assets, giving more stable and smoothed returns over time.
+Stability in Returns: Moderates the impact of fluctuations in individual assets, giving more stable and smooth returns over time.
 Predictable Experience: Provides temperamental investors with a more predictable investment experience.
 Liquidity Needs: Investors with higher liquidity needs find value in a less volatile portfolio.
 
@@ -18,7 +18,7 @@ Liquidity Needs: Investors with higher liquidity needs find value in a less vola
 2) Efficient Frontier:
 Represents a set of optimal portfolios that offer the highest expected return for a defined level of risk.
 Portfolios that lie below the Efficient Frontier are considered suboptimal.
-Investors are risk-averse and seeks to maximize the expected return for a given level of risk.
+Investors are risk-averse and seek to maximize the expected return for a given level of risk.
 The Capital Market Line is a tangent line from the risk-free rate to the Efficient Frontier. 
 It represents a combination of a risk-free asset and a risky portfolio and showcases the optimal risk-return tradeoff.
 
