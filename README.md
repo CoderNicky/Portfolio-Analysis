@@ -1,30 +1,42 @@
 # Optimization with PyPortfolioOpt
 
+
 ## Overview
 
 This Python script introduces the PyPortfolioOpt library for efficient portfolio optimization and is 
-based on Modern Portfolio Theory (MPT) principles: 
+based on Modern Portfolio Theory (MPT) principles.
 
+## Table of Contents
 
-1) Diversification: 
-A strategic risk management approach that involves spreading investments across various assets
-to diminish the impact of poor performance in any single investment on the overall portfolio.
-Risk Reduction: Effective in minimizing unsystematic or specific risks of individual assets, industries, or regions.
-Stability in Returns: Moderates the impact of fluctuations in individual assets, giving more stable and smooth returns over time.
-Predictable Experience: Provides temperamental investors with a more predictable investment experience.
-Liquidity Needs: Investors with higher liquidity needs find value in a less volatile portfolio.
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Performance Metrics](#performance-metrics)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- [References](#references)
 
+## Introduction
 
-2) Efficient Frontier:
-Represents a set of optimal portfolios that offer the highest expected return for a defined level of risk.
-Portfolios that lie below the Efficient Frontier are considered suboptimal.
-Investors are risk-averse and seek to maximize the expected return for a given level of risk.
-The Capital Market Line is a tangent line from the risk-free rate to the Efficient Frontier. 
-It represents a combination of a risk-free asset and a risky portfolio and showcases the optimal risk-return tradeoff.
+1) **Diversification:**
+   - A strategic risk management approach that involves spreading investments across various assets
+   - Effective in minimizing unsystematic or specific risks of individual assets, industries, or regions.
+   - Moderates the impact of fluctuations in individual assets, providing stable and smooth returns over time.
+   - Provides a predictable investment experience for temperamental investors.
+   - Valuable for investors with higher liquidity needs.
 
+2) **Efficient Frontier:**
+   - Represents a set of optimal portfolios that offer the highest expected return for a defined level of risk.
+   - Portfolios below the Efficient Frontier are considered suboptimal.
+   - Investors aim to maximize expected return for a given level of risk.
+   - The Capital Market Line showcases the optimal risk-return tradeoff.
 
-3) Mean-Variance Optimization:
-Finds the optimal portfolio weights that maximize the Sharpe ratio, a measure of risk-adjusted return.
+3) **Mean-Variance Optimization:**
+   - Finds optimal portfolio weights maximizing the Sharpe ratio, a measure of risk-adjusted return.
 
 
 ### Key Features
@@ -36,6 +48,29 @@ Finds the optimal portfolio weights that maximize the Sharpe ratio, a measure of
 - **Asset Returns Prediction:** Employ the Capital Asset Pricing Model (CAPM) to predict expected returns for each asset.
 
 - **Sharpe Ratio Analysis:** Evaluate the performance of the portfolio using the Sharpe ratio, comparing it against a benchmark, such as the S&P 500.
+
+ 
+ ## Getting Started
+
+ 1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/Optimization-with-PyPortfolioOpt.git
+   cd Optimization-with-PyPortfolioOpt
+
+ ## Usage
+
+- **Portfolio Optimization:**
+To perform portfolio optimization, use the provided script along with the PyPortfolioOpt library. Modify the script to customize the list of assets, risk parameters, and optimization constraints based on your investment preferences.
+
+- **Risk Analysis:**
+Explore the risk analysis features by running the script with historical data and adjusting the parameters as needed. This will provide insights into the historical portfolio returns, volatility, and VaR measures.
+
+## Performance Metrics
+
+## Dependencies
+
+## Contributing
 
 ### Acknowledgments
 
