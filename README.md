@@ -54,8 +54,8 @@ based on Modern Portfolio Theory (MPT) principles.
 
  1. **Clone the repository:**
       ```bash
-   git clone https://github.com/your-username/Optimization-with-PyPortfolioOpt.git
-   cd Optimization-with-PyPortfolioOpt
+      git clone https://github.com/your-username/Optimization-with-PyPortfolioOpt.git
+      cd Optimization-with-PyPortfolioOpt
 
 
  ## Usage
