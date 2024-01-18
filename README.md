@@ -102,6 +102,8 @@ Feel free to contribute by opening issues, suggesting enhancements, or submittin
 
 [PyPortfolioOpt: GitHub Repository](https://github.com/robertmartin8/PyPortfolioOpt)
 
+Martin, R. A., (2021). PyPortfolioOpt: portfolio optimization in Python. Journal of Open Source Software, 6(61), 3066, https://doi.org/10.21105/joss.03066
+
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
